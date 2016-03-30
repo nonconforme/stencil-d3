@@ -1,6 +1,6 @@
 {
   "name": "stencil",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A horribly simple starter template for all your Angular2 frontend development",
   "scripts": {
     "postinstall": "./scripts/install.js"
@@ -9,13 +9,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rixrix/stencil.git"
+    "url": "https://github.com/stencil/stencil-d3.git"
   },
-  "homepage": "https://github.com/rixrix/stencil",
+  "homepage": "https://github.com/stencil/stencil-d3",
   "dependencies": {
     "angular2": "2.0.0-beta.12",
     "body-parser": "^1.15.0",
     "core-js": "^2.2.1",
+    "d3": "^3.5.16",
     "ejs": "^2.4.1",
     "es6-shim": "0.35.0",
     "express": "^4.13.4",

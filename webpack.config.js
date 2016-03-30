@@ -48,6 +48,7 @@ var options = {
     resolve: {
         extensions: ['', '.webpack.js', '.web.js', '.ts', '.js'],
         alias: {
+            'd3': 'd3/d3.js'
         },
         modulesDirectories: ['.', 'app', 'node_modules']
     },
